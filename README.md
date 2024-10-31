@@ -7,10 +7,10 @@
      5. For each user in users.csv go to 'https://api.github.com'}/users/{user['login']}/repos?sort=pushed&direction=desc&page={page}&per_page=100'
      6- Take 500 recently pushed repositories and all the fields mentioned in the question
      7- convert to repositories.csv
-## 2 Most intresting fact
+## 2 Most interesting fact
   One intresting fact I learnt that even in the URL we can do filtering
   other intresting fact was that there is only 0.075 corellation between number of followers and the number of public repositories among users in
-## Actionalble to the developers
+## An actionable recommendation for developers based on analysis
   No actionables
 
                          
